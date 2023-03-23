@@ -1,8 +1,8 @@
 # Horiseon-Code-Refactor
 
-<screenshot of the deployed app>
+![Screenshot (2)](https://user-images.githubusercontent.com/127579030/227125098-d7a4269a-064f-4b91-bf05-2f9cbd1d1c06.png)
 
-<link to the deployed app>
+[<link to the deployed app>](https://tonntribe.github.io/Horiseon-Code-Refactor/#social-media-marketing)
 
 ## 
 
