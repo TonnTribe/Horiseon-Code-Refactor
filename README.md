@@ -5,10 +5,8 @@
 
 (https://tonntribe.github.io/Horiseon-Code-Refactor/#social-media-marketing)
 
-##Description
-Horiseon is a web application used to help improve search engine optimization. I have been tasked with refactoring the index.html and style.css files to create a more coesive format of the coding by including elemental semantics.   
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+## Description
+- Horiseon is a web application used to help improve search engine optimization. I have been tasked with refactoring the index.html and style.css files to create a more coesive format of the coding by including elemental semantics.   
 
 - What was your motivation? 
 - To optimize the search engine and understand the elemental semantics of the index.html and style.css files.
